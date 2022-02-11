@@ -17,7 +17,10 @@ With Docker, you can treat containers like extremely lightweight, modular virtua
 Docker is a software platform that allows you to build, test, and deploy applications quickly. 
 
 
+
 Docker packages software into standardized units called containers that have everything the software needs to run including libraries, system tools, code, and runtime. Using Docker, you can quickly deploy and scale applications into any environment and know your code will run.
+
+![dockers-running](https://github.com/veilair/docker-development/blob/main/img/Virtual-Machine-versus-Docker-Container.png)
 
 
 Running Docker provides developers and admins a highly reliable, low-cost way to build, ship, and run distributed applications at any scale.
