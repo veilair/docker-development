@@ -14,6 +14,14 @@ Here's a brief explainer:
 - The company, Docker Inc., builds on the work of the Docker community, makes it more secure, and shares those advancements back to the greater community. It then supports the improved and hardened technologies for enterprise customers.
 With Docker, you can treat containers like extremely lightweight, modular virtual machines. And you get flexibility with those containers&mdash;you can create, deploy, copy, and move them from environment to environment, which helps optimize your apps for the cloud.
 
+Docker is a software platform that allows you to build, test, and deploy applications quickly. 
+
+
+Docker packages software into standardized units called containers that have everything the software needs to run including libraries, system tools, code, and runtime. Using Docker, you can quickly deploy and scale applications into any environment and know your code will run.
+
+
+Running Docker on AWS provides developers and admins a highly reliable, low-cost way to build, ship, and run distributed applications at any scale.
+
 
 
 ## Where to start ?
