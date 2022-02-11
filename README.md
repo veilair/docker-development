@@ -1,6 +1,16 @@
 # Docker Development
+> An ongoing curated list of awesome frameworks, important books, articles, talks, libraries, learning tutorials, best practices and technical resources about Docker. Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
 ## What is Docker?
+
+The word "Docker" refers to several things, including an open source community project; tools from the open source project; Docker Inc., the company that primarily supports that project; and the tools that company formally supports. The fact that the technologies and the company share the same name can be confusing.
+
+Here's a brief explainer:
+
+- The IT software "Docker” is containerization technology that enables the creation and use of Linux® containers.
+- The open source Docker community works to improve these technologies to benefit all users.
+- The company, Docker Inc., builds on the work of the Docker community, makes it more secure, and shares those advancements back to the greater community. It then supports the improved and hardened technologies for enterprise customers.
+With Docker, you can treat containers like extremely lightweight, modular virtual machines. And you get flexibility with those containers&mdash;you can create, deploy, copy, and move them from environment to environment, which helps optimize your apps for the cloud.
 
 
 
