@@ -3,7 +3,7 @@
 
 ## What is Docker?
 
-The word "Docker" refers to several things, including an *open source community project; tools from the open source project; Docker Inc., the company that primarily supports that project; and the tools that company formally supports.* The fact that the technologies and the company share the same name can be confusing.
+The word "Docker" refers to several things, including an **open source community project; tools from the open source project; Docker Inc., the company that primarily supports that project; and the tools that company formally supports.** The fact that the technologies and the company share the same name can be confusing.
 
 ![containers](https://github.com/veilair/docker-development/blob/main/img/Container%20architecture-png.png)
 
